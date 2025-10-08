@@ -69,7 +69,7 @@
 ---
 ### 🚀 Projects  
 
-### 🏠 Real-Time Weapon Detection System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/Home-Security-System)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****Jan 2025 - Present****   
+### 🏠 Home Security System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/Home-Security-System)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****Jan 2025 - Present****   
 
 - **Tech Stack**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
