@@ -119,7 +119,7 @@
   ![GUI](https://img.shields.io/badge/GUI-4CC61E?style=for-the-badge)
   
 ---
-### 😊 Emotion-Recognition-System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/Emotion-RecognitionSystem)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****SEP 2024 - Present****   
+### 😊 Emotion-Recognition-System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/Emotion-RecognitionSystem)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****SEP 2024 - January 2025****   
 
 - **Tech Stack**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
