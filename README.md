@@ -65,11 +65,50 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
 
+  ---   
+### 🚀 Projects
+  ### 🦾 Six-Axis-Manipulator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/6AxisManipulator)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****Feb 2025 - Present****   
 
+- **Tech Stack**:  
+  ![Tkinter](https://img.shields.io/badge/Tkinter-003366?style=for-the-badge)
+  ![Matlab](https://img.shields.io/badge/Matlab-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Embedded C](https://img.shields.io/badge/Embedded_C-626878?style=for-the-badge)
+  ![CAD](https://img.shields.io/badge/CAD-217346?style=for-the-badge)
+  ![Gear Box](https://img.shields.io/badge/Gear_Box-8d5524?style=for-the-badge)
+  ![ROS](https://img.shields.io/badge/ROS-22314e?style=for-the-badge&logo=ros&logoColor=white)
+  
+- **Skills Gained**:  
+  ![Inverse Kinematics](https://img.shields.io/badge/Inverse_Kinematics-5C3EE8?style=for-the-badge)
+  ![Forward Kinematics](https://img.shields.io/badge/Forward_Kinematics-f9a602?style=for-the-badge)
+  ![Trajectory Planning](https://img.shields.io/badge/Trajectory_Planning-009688?style=for-the-badge)
+  ![Path Planning](https://img.shields.io/badge/Path_Planning-18b495?style=for-the-badge)
+  ![Planetary Drives](https://img.shields.io/badge/Planetary_Drives-5a189a?style=for-the-badge)
+  ![Cycloidal Drives](https://img.shields.io/badge/Cycloidal_Drives-457b9d?style=for-the-badge)
+  ![Harmonic Drives](https://img.shields.io/badge/Harmonic_Drives-f72585?style=for-the-badge)
+  ![GUI](https://img.shields.io/badge/GUI-4CC61E?style=for-the-badge)
+  
+---
+
+  ### 🦾 ShunyaNet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/ShunyaNet)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****Feb 2025 - Present****   
+
+- **Tech Stack**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge)
+  ![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge)
+  ![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-4285F4?style=for-the-badge&logo=google)
+  
+- **Skills Gained**:  
+  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-B22C19?style=for-the-badge)
+  ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-1572B6?style=for-the-badge)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge)
+  ![Graphical User Interface](https://img.shields.io/badge/Graphical_User_Interface-4CC61E?style=for-the-badge)
 
 ---
-### 🚀 Projects  
-
 ### 🏠 Home Security System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/Home-Security-System)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****Jan 2025 - Present****   
 
 - **Tech Stack**:  
@@ -95,58 +134,16 @@
   ![API Integration](https://img.shields.io/badge/API_Integration-20232A?style=for-the-badge)
   ![Real-time Deployment](https://img.shields.io/badge/Real--time_Deployment-4CC61E?style=for-the-badge)
   
-  ---
-  
-
-  ### 🦾 Six-Axis-Manipulator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/6AxisManipulator)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****Feb 2025 - Present****   
-
-- **Tech Stack**:  
-  ![Tkinter](https://img.shields.io/badge/Tkinter-003366?style=for-the-badge)
-  ![Matlab](https://img.shields.io/badge/Matlab-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Embedded C](https://img.shields.io/badge/Embedded_C-626878?style=for-the-badge)
-  ![CAD](https://img.shields.io/badge/CAD-217346?style=for-the-badge)
-  ![Gear Box](https://img.shields.io/badge/Gear_Box-8d5524?style=for-the-badge)
-  ![ROS](https://img.shields.io/badge/ROS-22314e?style=for-the-badge&logo=ros&logoColor=white)
-  
-- **Skills Gained**:  
-  ![Inverse Kinematics](https://img.shields.io/badge/Inverse_Kinematics-5C3EE8?style=for-the-badge)
-  ![Forward Kinematics](https://img.shields.io/badge/Forward_Kinematics-f9a602?style=for-the-badge)
-  ![Trajectory Planning](https://img.shields.io/badge/Trajectory_Planning-009688?style=for-the-badge)
-  ![Path Planning](https://img.shields.io/badge/Path_Planning-18b495?style=for-the-badge)
-  ![Planetary Drives](https://img.shields.io/badge/Planetary_Drives-5a189a?style=for-the-badge)
-  ![Cycloidal Drives](https://img.shields.io/badge/Cycloidal_Drives-457b9d?style=for-the-badge)
-  ![Harmonic Drives](https://img.shields.io/badge/Harmonic_Drives-f72585?style=for-the-badge)
-  ![GUI](https://img.shields.io/badge/GUI-4CC61E?style=for-the-badge)
-  
 ---
-### 😊 Emotion-Recognition-System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/Emotion-RecognitionSystem)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****SEP 2024 - January 2025****   
 
-- **Tech Stack**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge)
-  ![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge)
-  ![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-4285F4?style=for-the-badge&logo=google)
-  
-- **Skills Gained**:  
-  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
-  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-B22C19?style=for-the-badge)
-  ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-1572B6?style=for-the-badge)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge)
-  ![Graphical User Interface](https://img.shields.io/badge/Graphical_User_Interface-4CC61E?style=for-the-badge)
----
-🤖 **4-Axis-Manipulator**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View Repository](https://github.com/bharathkukka/4AxisManipulator)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Duration:** July 2024 - Dec 2024  
-
-🎬 **Movie-Recommendation System**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View Repository](https://github.com/bharathkukka/MovieRecommendationSystem)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Duration:** Jan 2024 - April 2024  
-
-🐾 **Quadruped-Robot**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/Quadruped-Robot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Duration:** Jan 2024 - April 2024  
-
-🗑️ **DustBin-Collector-Rover**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/DustBin-Collector-Rover)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Duration:** July 2023 - December 2023  
-
-✋ **ProstheticHand**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/ProstheticHand)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Duration:** Feb 2023 - April 2023  
+| Project                            | Description                                                                 | Repository                                                                                          | Duration            |
+| ---------------------------------- |-----------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------- |---------------------|
+| 😊 **Emotion Recognition System**  | Deep learning–based system for recognizing human emotions from facial expressions | [View Repo](https://github.com/bharathkukka/Emotion-RecognitionSystem)                              | Sep 2024 – DEC 2024 |
+| 🤖 **4-Axis Manipulator**          | Design and control of a 4-axis robotic arm for precise manipulation tasks   | [View Repo](https://github.com/bharathkukka/4AxisManipulator)                                       | Jul 2024 – Dec 2024 |
+| 🎬 **Movie Recommendation System** | ML-based recommendation engine using user preferences and similarity        | [View Repo](https://github.com/bharathkukka/MovieRecommendationSystem)                              | Jan 2024 – Apr 2024 |
+| 🐾 **Quadruped Robot**             | Four-legged mobile robot focusing on locomotion and balance control         | [View Repo](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/Quadruped-Robot)         | Jan 2024 – Apr 2024 |
+| 🗑️ **DustBin Collector Rover**    | Autonomous rover for waste collection using sensors and motor control       | [View Repo](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/DustBin-Collector-Rover) | Jul 2023 – Dec 2023 |
+| ✋ **Prosthetic Hand**              | Low-cost prosthetic hand with Muscle Sensor and Servos                      | [View Repo](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/ProstheticHand)          | Feb 2023 – Apr 2023 |
 
 ---
 
