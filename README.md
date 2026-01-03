@@ -67,7 +67,7 @@
 
   ---   
 ### 🚀 Projects
-  ### 🦾 Six-Axis-Manipulator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/6AxisManipulator)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****Feb 2025 - Present****   
+  ### 🦾 Six-Axis-Manipulator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/6AxisManipulator)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          ****Feb 2025 - Present****   
 
 - **Tech Stack**:  
   ![Tkinter](https://img.shields.io/badge/Tkinter-003366?style=for-the-badge)
