@@ -59,7 +59,8 @@
 
   ---   
 ### 🚀 Projects
-  ### 🦾 Six-Axis-Manipulator&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/6AxisManipulator)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          ****Feb 2025 - Present****   
+  ### 🦾 Six-Axis-Manipulator 
+***[View Repository](https://github.com/bharathkukka/6AxisManipulator)***&nbsp;&nbsp;****Feb 2025 - Present****   
 
 - **Tech Stack**:  
   ![Tkinter](https://img.shields.io/badge/Tkinter-003366?style=for-the-badge)
@@ -82,7 +83,8 @@
   
 ---
 
-  ### 🦾 ShunyaNet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***[View Repository](https://github.com/bharathkukka/ShunyaNet)***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ****Feb 2025 - Present****   
+  ### 🦾 ShunyaNet
+ ***[View Repository](https://github.com/bharathkukka/ShunyaNet)***&nbsp;&nbsp;****Feb 2025 - Present****   
 
 - **Tech Stack**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
