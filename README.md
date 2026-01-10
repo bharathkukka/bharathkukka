@@ -8,20 +8,14 @@
 
 ---
 
-<h3>👨‍💻 About Me</h3>  
+### 👨‍💻 About Me
 
 
 <h3 align="center"><strong><em>Shunya</em></strong></h3>
 
-
-
-
 ---
-<h2 style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; color: #C0B283; font-weight: 700; letter-spacing: 2px;">
-  Technical Skills
-</h2>
 
-
+### 💻 Technical Skills
 <div align="center" style="font-family:'Comic Sans MS', 'Comic Sans', cursive; font-weight:600;">
 <!-- Java -->
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
