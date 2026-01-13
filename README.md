@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 **About Me**
 
 
 <h3 align="center"><strong><em>Shunya</em></strong></h3>
