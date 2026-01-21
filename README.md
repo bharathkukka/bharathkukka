@@ -15,40 +15,44 @@
 
 ---
 
-### 💻 Technical Skills
-<div align="center" style="font-family:'Comic Sans MS', 'Comic Sans', cursive; font-weight:600;">
-<!-- Java -->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<!-- Python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<!-- Deep Learning -->
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<!-- TensorFlow -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<!-- PyTorch -->
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<!-- MATLAB (function icon) -->
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<!-- Embedded C (C icon) -->
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<!-- VHDL (verilog icon) -->
-<img src="https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white"/>
-<!-- Robot Kinematics & Dynamics (robotframework icon) -->
-<img src="https://img.shields.io/badge/Robot%20Kinematics%20%26%20Dynamics-4682B4?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<!-- Microcontrollers (microchip icon) -->
-<img src="https://img.shields.io/badge/Microcontrollers-228B22?style=for-the-badge&logo=microchip&logoColor=white"/>
-<!-- Git -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<!-- Supabase -->
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<!-- PyCharm -->
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-<!-- Eclipse -->
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-<!-- VS Code -->
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<!-- Arduino IDE -->
-<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<div align="center">
+
+<h3>🛠️ Tech Stack</h3>
+
+<!-- Programming -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/VHDL-8A2BE2?style=flat-square"/>
+
+<br/>
+
+<!-- Robotics -->
+<img src="https://img.shields.io/badge/ROS%20%2F%20ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robot%20Kinematics%20%26%20Dynamics-4B6CB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microcontrollers-228B22?style=flat-square&logo=microchip&logoColor=white"/>
+
+<br/>
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+
 </div>
 
   ---   
