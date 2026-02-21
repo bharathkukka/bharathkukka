@@ -58,7 +58,7 @@
   --- 
   ### 🚀 Internship
   ### ***Robotics & AI Intern***&nbsp;&nbsp;&nbsp;****Feb 2026 - Present****
-  #### BraveCore Pvt Ltd,&nbsp;&nbsp;&nbsp; Research & Innovation Park, IIT Delhi On-Site  
+  #### BraveCore Pvt Ltd,&nbsp; Research & Innovation Park, IIT Delhi On-Site  
 
 
   
