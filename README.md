@@ -55,7 +55,10 @@
 
 </div>
 
-  ---   
+  --- 
+  ### Internship
+  ### ***Robotics & AI Intern***&nbsp;&nbsp;****Feb 2026 - Present****   
+  
 ### 🚀 Projects
   ### 🦾 Six-Axis-Manipulator 
 ***[View Repository](https://github.com/bharathkukka/6AxisManipulator)***&nbsp;&nbsp;****Feb 2025 - Present****   
