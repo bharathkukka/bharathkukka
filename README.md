@@ -57,8 +57,8 @@
 
   --- 
   ### Internship
-  ### ***Robotics & AI Intern***&nbsp;&nbsp;****Feb 2026 - Present****
-  ## BraveCore Pvt Ltd, Research & Innovation Park, IIT Delhi On-Site
+  ### ***Robotics & AI Intern***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;****Feb 2026 - Present****
+  # BraveCore Pvt Ltd,&nbsp;&nbsp;&nbsp; Research & Innovation Park, IIT Delhi On-Site
   
 ### 🚀 Projects
   ### 🦾 Six-Axis-Manipulator 
