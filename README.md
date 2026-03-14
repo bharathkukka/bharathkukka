@@ -74,7 +74,7 @@ Research & Innovation Park, IIT Delhi
 |------|------|------|------|------|
 | 🦾 **Six Axis Manipulator** | Designed and developed a 6-DOF robotic manipulator including kinematics, trajectory planning, mechanical design and GUI control system. | Python, ROS, MATLAB, Embedded C, CAD | [Repository](https://github.com/bharathkukka/6AxisManipulator) | Feb 2025 – Dec 2025 |
 | 🧠 **ShunyaNet** | Deep learning computer vision platform for training and deploying image classification models with GUI and web interfaces. | Python, TensorFlow, OpenCV, Streamlit | [Repository](https://github.com/bharathkukka/ShunyaNet) | Feb 2025 – Dec 2025 |
-| 🌾 **Farmer Portfolio Website** | Developed and deployed a responsive website for a farmer in 3 days. | HTML, CSS, JS | [Portfolio](https://hanumanthraokukka.netlify.app) | Jan 2026 |
+| 🌾 **Farmer Portfolio Website** | Developed and deployed a responsive website for a farmer.  | HTML, CSS, JS | [Portfolio](https://hanumanthraokukka.netlify.app) | Jan 2026 |
 | 🏠 **Home Security System** | Multi-class face recognition security system integrated with AI threat analysis and Telegram alert system. | Python, OpenCV, Deep Learning | [Repository](https://github.com/bharathkukka/Home-Security-System) | Jan 2025 – May 2025 |
 | 😊 **Emotion Recognition System** | Deep learning system that detects human emotions using facial expression recognition. | Python, TensorFlow, Computer Vision | [Repository](https://github.com/bharathkukka/Emotion-RecognitionSystem) | Sep 2024 – Dec 2024 |
 | 🤖 **5-Axis Manipulator** | Designed and controlled a robotic arm implementing forward and inverse kinematics. | MATLAB, Python, Robotics | [Repository](https://github.com/bharathkukka/4AxisManipulator) | Jul 2024 – Dec 2024 |
