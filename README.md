@@ -97,7 +97,7 @@ https://github.com/bharathkukka/InfosysTraining-WD
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/bharath-kukka/">
+<a href="https://www.linkedin.com/in/bharathkukka/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -115,6 +115,6 @@ https://github.com/bharathkukka/InfosysTraining-WD
 
 <div align="center">
 
-### "Building intelligent machines that interact with the physical world."
+### "Robotics & AI Engineer passionate about designing machines that perceive, plan, and act intelligently in the real world."
 
 </div>
