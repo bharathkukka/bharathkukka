@@ -5,7 +5,7 @@
 # Hi, I'm Bharath 👋
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&pause=500&color=C0B283&center=true&vCenter=true&width=600&lines=Robotics+Engineer;AI+%7C+Computer+Vision+Developer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&pause=500&color=C0B283&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer;Open+Source+Contributor" />
 </a>
 
 </div>
