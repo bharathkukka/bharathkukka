@@ -66,6 +66,9 @@
 Research & Innovation Park, IIT Delhi  
 📅 Feb 2026 – Present
 
+| Project                            | Description                                                                                                                                              | Link                                                                                          | Duration            |
+| ---------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------- |---------------------|
+| 🌐 **BraveCore Website**           | Developed a responsive corporate website for BraveCore with modern design.                                                                         | [Visit Website](https://bravecore.in)                                                               | Feb 2026  |
 ---
 
 # 🚀 Projects
