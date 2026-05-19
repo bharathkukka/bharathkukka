@@ -85,7 +85,7 @@ Research & Innovation Park, IIT Delhi
 | 🐾 **Quadruped Robot** | Four-legged robot focusing on locomotion control and stability. | Embedded Systems, Robotics | [Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/Quadruped-Robot) | Jan 2024 – Apr 2024 |
 | 🗑 **Dustbin Collector Rover** | Autonomous rover built for waste collection using sensors and motor control. | Embedded C, Robotics | [Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/DustBin-Collector-Rover) | Jul 2023 – Dec 2023 |
 | ✋ **Prosthetic Hand** | Low-cost prosthetic hand using muscle sensor signals to control servo motors. | Embedded Systems | [Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/ProstheticHand) | Feb 2023 – Apr 2023 |
-| 💻 **Infosys Python Web Development** | Completed training in Python web development methodologies and practices. | Python, Web Development | [Repository](https://github.com/bharathkukka/InfosysTraining-WD) |  |
+| 💻 **Infosys Python Web Development** | Completed training in Python web development methodologies and practices. | Python, Web Development | [Repository](https://github.com/bharathkukka/InfosysTraining-WD) |July 2025  |
 
 ---
 
