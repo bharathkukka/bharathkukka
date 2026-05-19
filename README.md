@@ -59,7 +59,7 @@
 
 ---
 
-# 🚀 Experience
+#  Experience
 
 ### Robotics & AI Intern  
 **BraveCore Pvt Ltd**  
@@ -71,13 +71,13 @@ Research & Innovation Park, IIT Delhi
 | 🌐 **BraveCore Website**           | Developed a responsive corporate website for BraveCore with modern design.                                                                         | [Visit Website](https://bravecore.in)                                                               | Feb 2026  |
 ---
 
-# 🚀 Projects
+# Projects
 
 | Project | Description | Tech | Repository | Duration |
-|------|------|------|------|------|
+| --- | --- | --- | --- | --- |
 | 🦾 **Six Axis Manipulator** | Designed and developed a 6-DOF robotic manipulator including kinematics, trajectory planning, mechanical design and GUI control system. | Python, ROS, MATLAB, Embedded C, CAD | [Repository](https://github.com/bharathkukka/6AxisManipulator) | Feb 2025 – Dec 2025 |
 | 🧠 **ShunyaNet** | Deep learning computer vision platform for training and deploying image classification models with GUI and web interfaces. | Python, TensorFlow, OpenCV, Streamlit | [Repository](https://github.com/bharathkukka/ShunyaNet) | Feb 2025 – Dec 2025 |
-| 🌾 **Farmer Portfolio Website** | Developed and deployed a responsive website for a farmer.  | HTML, CSS, JS | [Portfolio](https://hanumanthraokukka.netlify.app) | Jan 2026 |
+| 🌾 **Farmer Portfolio Website** | Developed and deployed a responsive website for a farmer. | HTML, CSS, JS | [Portfolio](https://hanumanthraokukka.netlify.app) | Jan 2026 |
 | 🏠 **Home Security System** | Multi-class face recognition security system integrated with AI threat analysis and Telegram alert system. | Python, OpenCV, Deep Learning | [Repository](https://github.com/bharathkukka/Home-Security-System) | Jan 2025 – May 2025 |
 | 😊 **Emotion Recognition System** | Deep learning system that detects human emotions using facial expression recognition. | Python, TensorFlow, Computer Vision | [Repository](https://github.com/bharathkukka/Emotion-RecognitionSystem) | Sep 2024 – Dec 2024 |
 | 🤖 **5-Axis Manipulator** | Designed and controlled a robotic arm implementing forward and inverse kinematics. | MATLAB, Python, Robotics | [Repository](https://github.com/bharathkukka/4AxisManipulator) | Jul 2024 – Dec 2024 |
@@ -85,14 +85,7 @@ Research & Innovation Park, IIT Delhi
 | 🐾 **Quadruped Robot** | Four-legged robot focusing on locomotion control and stability. | Embedded Systems, Robotics | [Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/Quadruped-Robot) | Jan 2024 – Apr 2024 |
 | 🗑 **Dustbin Collector Rover** | Autonomous rover built for waste collection using sensors and motor control. | Embedded C, Robotics | [Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/DustBin-Collector-Rover) | Jul 2023 – Dec 2023 |
 | ✋ **Prosthetic Hand** | Low-cost prosthetic hand using muscle sensor signals to control servo motors. | Embedded Systems | [Repository](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/ProstheticHand) | Feb 2023 – Apr 2023 |
----
-
-# 🚅 Training
-
-### Infosys Python Web Development
-
-Repository  
-https://github.com/bharathkukka/InfosysTraining-WD
+| 💻 **Infosys Python Web Development** | Completed training in Python web development methodologies and practices. | Python, Web Development | [Repository](https://github.com/bharathkukka/InfosysTraining-WD) |  |
 
 ---
 
