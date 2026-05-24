@@ -2,18 +2,13 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azZxa3ZzdzFibGdtNDloZmNwajY2bW44dTloYXQzcHZzaGtiY2x5cSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Iz6S97GkQtpEb2sIwj/giphy.gif" width="500"/>
 
-# Hi, I'm Bharath 👋
+### Hi, I'm Bharath 👋
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&pause=500&color=C0B283&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=28&pause=500&color=C0B283&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer;Open+Source+Developer" />
 </a>
 
 </div>
-
----
-
-### 👨‍💻 About Me
-
 <h3 align="center"><strong><em>Shunya</em></strong></h3>
 
 ---
