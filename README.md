@@ -56,19 +56,19 @@
 
 ---
 
-#  Experience
+### 💼 Experience
 
-### Robotics & AI Intern  
-**BraveCore Pvt Ltd**  
-Research & Innovation Park, IIT Delhi  
-📅 Feb 2026 – Present
+#### 🤖 Robotics & AI Intern  
+**BraveCore Pvt Ltd** | *Research & Innovation Park, IIT Delhi* 📅 **Feb 2026 – Present**
 
-| Project                            | Description                                                                                                                                              | Link                                                                                          | Duration            |
-| ---------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------- |---------------------|
-| 🌐 **BraveCore Website**           | Developed a responsive corporate website for BraveCore with modern design.                                                                         | [Visit Website](https://bravecore.in)                                                               | Feb 2026  |
+| Project | Description | Link | Duration |
+| :--- | :--- | :--- | :--- |
+| 🚇 **Metro Surveillance System** | Developed an AI-powered metro surveillance system, optimizing deep learning models for real-time edge deployment on an NVIDIA Jetson Orin Nano. | *-* |-|
+| 🌐 **BraveCore Website** | Engineered a responsive, modern corporate website to establish the company's digital presence and showcase research initiatives. | [Visit Website](https://bravecore.in) | Feb 2026 |
+
 ---
 
-# Projects
+### Projects
 
 | Project | Description | Tech | Repository | Duration |
 | --- | --- | --- | --- | --- |
@@ -86,7 +86,7 @@ Research & Innovation Park, IIT Delhi
 
 ---
 
-# 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
 
@@ -105,9 +105,3 @@ Research & Innovation Park, IIT Delhi
 </p>
 
 ---
-
-<div align="center">
-
-### "Robotics & AI Engineer passionate about designing machines that perceive, plan, and act intelligently in the real world."
-
-</div>
