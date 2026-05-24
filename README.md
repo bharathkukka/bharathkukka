@@ -22,40 +22,42 @@
 
 ### 🛠 Tech Stack
 
-<!-- Row 1 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white"/>
 
 <br/>
 
-<!-- Row 2 -->
-<img src="https://img.shields.io/badge/ROS%20%2F%20ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Robot%20Kinematics-4B6CB7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Robot%20Dynamics-2E8B57?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microcontrollers-228B22?style=flat-square&logo=microchip&logoColor=white"/>
-
-<br/>
-
-<!-- Row 3 -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF9900?style=flat-square"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 <br/>
 
-<!-- Row 4 -->
-<img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Edge%20Computing-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robot%20Kinematics%20%26%20Dynamics-4B6CB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Control%20Systems-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microcontrollers-228B22?style=flat-square&logo=microchip&logoColor=white"/>
 
 <br/>
 
-<!-- Row 5 -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers%20%26%20CNNs-E57373?style=flat-square"/>
+<img src="https://img.shields.io/badge/Edge%20AI%20Deployment-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Quantization%20%26%20TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
 
-</div>
+<br/>
+
+<img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Sensor%20Fusion-8A2BE2?style=flat-square"/>
 
 ---
 
