@@ -92,15 +92,10 @@ Building robotic systems and handling AI model training, fine-tuning, and infere
 | **Quadruped Robot** | Four-legged mobile robot focusing on locomotion and balance control. | [View](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/Quadruped-Robot) | Jan – Apr 2024 |
 | **DustBin Collector Rover** | Autonomous rover for waste collection using sensors and motor control. | [View](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/DustBin-Collector-Rover) | Jul – Dec 2023 |
 | **Prosthetic Hand** | Low-cost prosthetic hand using muscle sensors and servos. | [View](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/ProstheticHand) | Feb – Apr 2023 |
+| **Infosys — Python Web Development** | Training in Python web development methodologies and practices. | [View](https://github.com/bharathkukka/InfosysTraining-WD) | Jul 2025 |
 
----
 
-## Training
 
-<font color="#aaaaaa">**Infosys — Python Web Development**
-[View Repository](https://github.com/bharathkukka/InfosysTraining-WD)</font>
-
----
 
 ## Connect
 
