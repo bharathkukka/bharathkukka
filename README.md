@@ -10,44 +10,45 @@
 
 I build intelligent systems at the intersection of robotics, AI, and software engineering. Currently focused on robotic manipulation, deep learning, and embedded systems.
 
-**Shunya** — a philosophy of reducing to the essential.
-
 ---
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C%2FC%2B%2B-555555?style=flat-square&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-555555?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-555555?style=flat-square&logo=gnu-bash&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-555555?style=flat-square)
+<img src="https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded_C%2FC%2B%2B-555555?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bash-555555?style=flat-square&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/VHDL-555555?style=flat-square"/>
 
-**Robotics & Embedded**
+<br/>
 
-![ROS2](https://img.shields.io/badge/ROS2-555555?style=flat-square&logo=ros&logoColor=white)
-![Kinematics & Dynamics](https://img.shields.io/badge/Kinematics_%26_Dynamics-555555?style=flat-square)
-![Control Systems](https://img.shields.io/badge/Control_Systems-555555?style=flat-square)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-555555?style=flat-square)
-![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-555555?style=flat-square)
+<img src="https://img.shields.io/badge/ROS2-555555?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kinematics_%26_Dynamics-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Control_Systems-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microcontrollers-555555?style=flat-square"/>
 
-**AI & Machine Learning**
+<br/>
 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-555555?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-555555?style=flat-square&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-555555?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-555555?style=flat-square&logo=opencv&logoColor=white)
-![Transformers & CNNs](https://img.shields.io/badge/Transformers_%26_CNNs-555555?style=flat-square)
-![Edge AI](https://img.shields.io/badge/Edge_AI_Deployment-555555?style=flat-square)
-![TensorRT](https://img.shields.io/badge/TensorRT-555555?style=flat-square&logo=nvidia&logoColor=white)
+<img src="https://img.shields.io/badge/Deep_Learning-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-555555?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-555555?style=flat-square&logo=opencv&logoColor=white"/>
 
-**Tools & Infrastructure**
+<br/>
 
-![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white)
-![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-555555?style=flat-square&logo=nvidia&logoColor=white)
+<img src="https://img.shields.io/badge/Edge_AI_Deployment-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorRT-555555?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sensor_Fusion-555555?style=flat-square"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -69,44 +70,22 @@ Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;
 **Robotics Intern — Manav Rachna University**  
 Faridabad, Haryana &nbsp;|&nbsp; Jun 2025 – Aug 2025
 
-- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning. [Repository](https://github.com/bharathkukka/6AxisManipulator)
+- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning.
 
 **Freelance** &nbsp;|&nbsp; Independent Client &nbsp;|&nbsp; Jul 2025
 
 - **Farmer Portfolio Website**: Built and deployed a responsive portfolio website in 3 days. [Visit](https://hanumanthraokukka.netlify.app)
 
-
 ---
 
 ## Projects
 
-
-### Six-Axis Manipulator
-[View Repository](https://github.com/bharathkukka/6AxisManipulator) &nbsp;|&nbsp; Feb 2025 – Present
-
-Design, kinematics, and control of a 6-axis robotic arm with custom gear drives and a Python GUI.
-
-`Python` `MATLAB` `Embedded C` `ROS` `Tkinter` `CAD`  
-*Inverse Kinematics · Forward Kinematics · Trajectory Planning · Harmonic / Cycloidal / Planetary Drives*
-
----
-
-### ShunyaNet
-[View Repository](https://github.com/bharathkukka/ShunyaNet) &nbsp;|&nbsp; Feb 2025 – Present
-
-A deep learning framework for computer vision research with a custom neural network architecture.
-
-`Python` `TensorFlow` `Keras` `OpenCV` `Streamlit` `Tkinter`  
-*Computer Vision · Transfer Learning · Data Augmentation · GUI*
-
----
-
-### Other Projects
-
 | Project | Description | Repository | Duration |
 |---|---|---|---|
+| **Six-Axis Manipulator** | 6-axis robotic arm with custom gear drives, forward/inverse kinematics, trajectory planning, and a Python GUI. Tech: Python, MATLAB, Embedded C, ROS, CAD | [View](https://github.com/bharathkukka/6AxisManipulator) | Feb 2025 – Present |
+| **ShunyaNet** | Deep learning framework for computer vision with custom neural network architecture, training pipeline, and GUI/web interfaces. Tech: Python, TensorFlow, Keras, OpenCV, Streamlit | [View](https://github.com/bharathkukka/ShunyaNet) | Feb 2025 – Present |
 | **Farmer Portfolio Website** | Clean, responsive portfolio website built and deployed in 3 days. | [View](https://hanumanthraokukka.netlify.app) | Jan 2026 |
-| **Home Security System** | 3-class face recognition access system with Gemini AI and Telegram alerts. | [View](https://github.com/bharathkukka/Home-Security-System) | Jan – May 2025 |
+| **Home Security System** | 3-class face recognition access system with Gemini AI threat analysis and Telegram alerts. | [View](https://github.com/bharathkukka/Home-Security-System) | Jan – May 2025 |
 | **Emotion Recognition System** | Deep learning system for recognizing human emotions from facial expressions. | [View](https://github.com/bharathkukka/Emotion-RecognitionSystem) | Sep – Dec 2024 |
 | **5-Axis Manipulator** | Design and control of a 5-axis robotic arm for precise manipulation tasks. | [View](https://github.com/bharathkukka/4AxisManipulator) | Jul – Dec 2024 |
 | **Movie Recommendation System** | ML-based recommendation engine using user preferences and similarity. | [View](https://github.com/bharathkukka/MovieRecommendationSystem) | Jan – Apr 2024 |
