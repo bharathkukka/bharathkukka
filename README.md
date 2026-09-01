@@ -1,140 +1,140 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azZxa3ZzdzFibGdtNDloZmNwajY2bW44dTloYXQzcHZzaGtiY2x5cSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Iz6S97GkQtpEb2sIwj/giphy.gif" width="500"/>
-  <h1>Hi, I'm Bharath👋</h1>   
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=30&pause=400&color=C0B283&center=true&vCenter=true&width=435&lines=Open+Source+Developer;Robotics+%26+AI+Engineer;Full-Stack+Enthusiast" alt="Typing SVG" style="border: 6px solid #33F7F7; padding: 10px;"/>
-</a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azZxa3ZzdzFibGdtNDloZmNwajY2bW44dTloYXQzcHZzaGtiY2x5cSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Iz6S97GkQtpEb2sIwj/giphy.gif" width="420"/>
+  <h1>Bharath Kukka</h1>
+  <p><em>Robotics & AI Engineer &nbsp;|&nbsp; Open Source Developer &nbsp;|&nbsp; Full-Stack Enthusiast</em></p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
+I build intelligent systems at the intersection of robotics, AI, and software engineering. Currently focused on robotic manipulation, deep learning, and embedded systems.
 
-<h3 align="center"><strong><em>Shunya</em></strong></h3>
-
----
-
-<div align="center">
-
-<h3>🛠️ Tech Stack</h3>
-
-<!-- Programming -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/VHDL-8A2BE2?style=flat-square"/>
-
-<br/>
-
-<!-- Robotics -->
-<img src="https://img.shields.io/badge/ROS%20%2F%20ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Robot%20Kinematics%20%26%20Dynamics-4B6CB7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microcontrollers-228B22?style=flat-square&logo=microchip&logoColor=white"/>
-
-<br/>
-
-<!-- AI -->
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-
-<br/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-
-</div>
-
-  --- 
-  ### 🚀 Internship
-  ### ***Robotics & AI Intern***&nbsp;&nbsp;&nbsp;****Feb 2026 - Present****
-  #### BraveCore Pvt Ltd,&nbsp; Research & Innovation Park, IIT Delhi On-Site  
-
-
-  
-### 🚀 Projects
-  ### 🦾 Six-Axis-Manipulator 
-***[View Repository](https://github.com/bharathkukka/6AxisManipulator)***&nbsp;&nbsp;****Feb 2025 - Present****   
-
-- **Tech Stack**:  
-  ![Tkinter](https://img.shields.io/badge/Tkinter-003366?style=for-the-badge)
-  ![Matlab](https://img.shields.io/badge/Matlab-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Embedded C](https://img.shields.io/badge/Embedded_C-626878?style=for-the-badge)
-  ![CAD](https://img.shields.io/badge/CAD-217346?style=for-the-badge)
-  ![Gear Box](https://img.shields.io/badge/Gear_Box-8d5524?style=for-the-badge)
-  ![ROS](https://img.shields.io/badge/ROS-22314e?style=for-the-badge&logo=ros&logoColor=white)
-  
-- **Skills Gained**:  
-  ![Inverse Kinematics](https://img.shields.io/badge/Inverse_Kinematics-5C3EE8?style=for-the-badge)
-  ![Forward Kinematics](https://img.shields.io/badge/Forward_Kinematics-f9a602?style=for-the-badge)
-  ![Trajectory Planning](https://img.shields.io/badge/Trajectory_Planning-009688?style=for-the-badge)
-  ![Path Planning](https://img.shields.io/badge/Path_Planning-18b495?style=for-the-badge)
-  ![Planetary Drives](https://img.shields.io/badge/Planetary_Drives-5a189a?style=for-the-badge)
-  ![Cycloidal Drives](https://img.shields.io/badge/Cycloidal_Drives-457b9d?style=for-the-badge)
-  ![Harmonic Drives](https://img.shields.io/badge/Harmonic_Drives-f72585?style=for-the-badge)
-  ![GUI](https://img.shields.io/badge/GUI-4CC61E?style=for-the-badge)
-  
----
-
-  ### 🦾 ShunyaNet
- ***[View Repository](https://github.com/bharathkukka/ShunyaNet)***&nbsp;&nbsp;****Feb 2025 - Present****   
-
-- **Tech Stack**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge)
-  ![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge)
-  ![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-4285F4?style=for-the-badge&logo=google)
-  
-- **Skills Gained**:  
-  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
-  ![Deep Learning](https://img.shields.io/badge/Deep_Learning-B22C19?style=for-the-badge)
-  ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-1572B6?style=for-the-badge)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge)
-  ![Graphical User Interface](https://img.shields.io/badge/Graphical_User_Interface-4CC61E?style=for-the-badge)
+**Shunya** — a philosophy of reducing to the essential.
 
 ---
 
-| Project                            | Description                                                                                                                                              | Repository                                                                                          | Duration            |
-| ---------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------- |---------------------|
-| �🌾 **Farmer Portfolio Website**    | Built and deployed a clean, responsive portfolio website for a farmer using Anti Gravity in just 3 days, focusing on usability and clarity. Hosted via GitHub and Netlify.  | [View Portfolio](https://hanumanthraokukka.netlify.app)     | 29 - 31 Jan 2026    |
-| 🏠 **Home Security System**  | Developed a secure 3-class face recognition access system integrated with Gemini AI for threat analysis and automated safety notifications via Telegram. | [View Repo](https://github.com/bharathkukka/Home-Security-System)                              | Jan 2025 - May 2025 |
-| 😊 **Emotion Recognition System**  | Deep learning–based system for recognizing human emotions from facial expressions.                                                                       | [View Repo](https://github.com/bharathkukka/Emotion-RecognitionSystem)                              | Sep 2024 – Dec 2024 |
-| 🤖 **5-Axis Manipulator**          | Design and control of a 5-axis robotic arm for precise manipulation tasks.                                                                               | [View Repo](https://github.com/bharathkukka/4AxisManipulator)                                       | Jul 2024 – Dec 2024 |
-| 🎬 **Movie Recommendation System** | ML-based recommendation engine using user preferences and similarity.                                                                                    | [View Repo](https://github.com/bharathkukka/MovieRecommendationSystem)                              | Jan 2024 – Apr 2024 |
-| 🐾 **Quadruped Robot**             | Four-legged mobile robot focusing on locomotion and balance control.                                                                                     | [View Repo](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/Quadruped-Robot)         | Jan 2024 – Apr 2024 |
-| 🗑️ **DustBin Collector Rover**    | Autonomous rover for waste collection using sensors and motor control.                                                                                   | [View Repo](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/DustBin-Collector-Rover) | Jul 2023 – Dec 2023 |
-| ✋ **Prosthetic Hand**              | Low-cost prosthetic hand with Muscle Sensor and Servos.                                                                                                  | [View Repo](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/ProstheticHand)          | Feb 2023 – Apr 2023 |
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C%2FC%2B%2B-555555?style=flat-square&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-555555?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-555555?style=flat-square&logo=gnu-bash&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-555555?style=flat-square)
+
+**Robotics & Embedded**
+
+![ROS2](https://img.shields.io/badge/ROS2-555555?style=flat-square&logo=ros&logoColor=white)
+![Kinematics & Dynamics](https://img.shields.io/badge/Kinematics_%26_Dynamics-555555?style=flat-square)
+![Control Systems](https://img.shields.io/badge/Control_Systems-555555?style=flat-square)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-555555?style=flat-square)
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-555555?style=flat-square)
+
+**AI & Machine Learning**
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-555555?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-555555?style=flat-square&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-555555?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-555555?style=flat-square&logo=opencv&logoColor=white)
+![Transformers & CNNs](https://img.shields.io/badge/Transformers_%26_CNNs-555555?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge_AI_Deployment-555555?style=flat-square)
+![TensorRT](https://img.shields.io/badge/TensorRT-555555?style=flat-square&logo=nvidia&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white)
+![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-555555?style=flat-square&logo=nvidia&logoColor=white)
 
 ---
 
-### 🚅 ***Training***
+## Experience
 
-#### Infosys Python Web Development  
+**Robotics & AI Engineer — [BraveCore Pvt Ltd](https://bravecore.in)**  
+Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; May 2026 – Present &nbsp;|&nbsp; On-Site
+
+Building robotic systems and handling AI model training, fine-tuning, and inference optimization. Managing the company's GitHub organization and web infrastructure.
+
+**Robotics & AI Intern — [BraveCore Pvt Ltd](https://bravecore.in)**  
+Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;|&nbsp; On-Site
+
+- **SMART-COP**: End-to-end AI metro surveillance system for real-time edge inference on NVIDIA Jetson with TensorRT optimization and a live monitoring dashboard.
+- **Corporate Website**: Designed and deployed the company's official website from scratch. [Visit](https://bravecore.in)
+- **Engineering Workflows**: Established centralized GitHub Organization for standardized version control across the startup.
+- **Web Operations**: Administered DNS, deployments, and site reliability.
+
+**Robotics Intern — Manav Rachna University**  
+Faridabad, Haryana &nbsp;|&nbsp; Jun 2025 – Aug 2025
+
+- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning. [Repository](https://github.com/bharathkukka/6AxisManipulator)
+
+**Freelance** &nbsp;|&nbsp; Independent Client &nbsp;|&nbsp; Jul 2025
+
+- **Farmer Portfolio Website**: Built and deployed a responsive portfolio website in 3 days. [Visit](https://hanumanthraokukka.netlify.app)
+
+
+---
+
+## Projects
+
+
+### Six-Axis Manipulator
+[View Repository](https://github.com/bharathkukka/6AxisManipulator) &nbsp;|&nbsp; Feb 2025 – Present
+
+Design, kinematics, and control of a 6-axis robotic arm with custom gear drives and a Python GUI.
+
+`Python` `MATLAB` `Embedded C` `ROS` `Tkinter` `CAD`  
+*Inverse Kinematics · Forward Kinematics · Trajectory Planning · Harmonic / Cycloidal / Planetary Drives*
+
+---
+
+### ShunyaNet
+[View Repository](https://github.com/bharathkukka/ShunyaNet) &nbsp;|&nbsp; Feb 2025 – Present
+
+A deep learning framework for computer vision research with a custom neural network architecture.
+
+`Python` `TensorFlow` `Keras` `OpenCV` `Streamlit` `Tkinter`  
+*Computer Vision · Transfer Learning · Data Augmentation · GUI*
+
+---
+
+### Other Projects
+
+| Project | Description | Repository | Duration |
+|---|---|---|---|
+| **Farmer Portfolio Website** | Clean, responsive portfolio website built and deployed in 3 days. | [View](https://hanumanthraokukka.netlify.app) | Jan 2026 |
+| **Home Security System** | 3-class face recognition access system with Gemini AI and Telegram alerts. | [View](https://github.com/bharathkukka/Home-Security-System) | Jan – May 2025 |
+| **Emotion Recognition System** | Deep learning system for recognizing human emotions from facial expressions. | [View](https://github.com/bharathkukka/Emotion-RecognitionSystem) | Sep – Dec 2024 |
+| **5-Axis Manipulator** | Design and control of a 5-axis robotic arm for precise manipulation tasks. | [View](https://github.com/bharathkukka/4AxisManipulator) | Jul – Dec 2024 |
+| **Movie Recommendation System** | ML-based recommendation engine using user preferences and similarity. | [View](https://github.com/bharathkukka/MovieRecommendationSystem) | Jan – Apr 2024 |
+| **Quadruped Robot** | Four-legged mobile robot focusing on locomotion and balance control. | [View](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/Quadruped-Robot) | Jan – Apr 2024 |
+| **DustBin Collector Rover** | Autonomous rover for waste collection using sensors and motor control. | [View](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/DustBin-Collector-Rover) | Jul – Dec 2023 |
+| **Prosthetic Hand** | Low-cost prosthetic hand using muscle sensors and servos. | [View](https://github.com/bharathkukka/Mini-RoboticProjects/tree/main/ProstheticHand) | Feb – Apr 2023 |
+
+---
+
+## Training
+
+**Infosys — Python Web Development**  
 [View Repository](https://github.com/bharathkukka/InfosysTraining-WD)
 
-### 🤝 Let's Connect
+---
+
+## Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bharath-kukka/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="https://x.com/Bharathkukka" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X_(Twitter)-555555?style=flat-square&logo=x&logoColor=white" alt="Twitter">
   </a>
+  &nbsp;
   <a href="https://bharathkukka.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=domain&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio">
   </a>
 </p>
