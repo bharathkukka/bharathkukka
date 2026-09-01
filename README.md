@@ -54,12 +54,12 @@
 
 ## Experience
 
-**Robotics & AI Engineer — [BraveCore Pvt Ltd](https://bravecore.in)**
+**Robotics & AI Engineer — BraveCore Pvt Ltd**
 <font color="#aaaaaa" size="4">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; May 2026 – Present &nbsp;|&nbsp; On-Site
 
 Building robotic systems and handling AI model training, fine-tuning, and inference optimization. Managing the company's GitHub organization and web infrastructure.</font>
 
-**Robotics & AI Intern — [BraveCore Pvt Ltd](https://bravecore.in)**
+**Robotics & AI Intern — BraveCore Pvt Ltd**
 <font color="#aaaaaa" size="4">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;|&nbsp; On-Site
 
 - **SMART-COP**: End-to-end AI metro surveillance system for real-time edge inference on NVIDIA Jetson with TensorRT optimization and a live monitoring dashboard.
