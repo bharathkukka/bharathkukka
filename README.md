@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azZxa3ZzdzFibGdtNDloZmNwajY2bW44dTloYXQzcHZzaGtiY2x5cSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Iz6S97GkQtpEb2sIwj/giphy.gif" width="420"/>
   <h1>Bharath Kukka</h1>
-  <p><em>Robotics & AI Engineer &nbsp;|&nbsp; Open Source Developer &nbsp;|&nbsp; Full-Stack Enthusiast</em></p>
+  <p><font color="#aaaaaa"><em>Robotics & AI Engineer &nbsp;|&nbsp; Open Source Developer</em></font></p>
 </div>
 
 ---
 
 ## About
 
-I build intelligent systems at the intersection of robotics, AI, and software engineering. Currently focused on robotic manipulation, deep learning, and embedded systems.
+<font color="#aaaaaa">I build intelligent systems at the intersection of robotics, AI, and software engineering. Currently focused on robotic manipulation, deep learning, and embedded systems.</font>
 
 ---
 
@@ -54,27 +54,27 @@ I build intelligent systems at the intersection of robotics, AI, and software en
 
 ## Experience
 
-**Robotics & AI Engineer — [BraveCore Pvt Ltd](https://bravecore.in)**  
-Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; May 2026 – Present &nbsp;|&nbsp; On-Site
+**Robotics & AI Engineer — [BraveCore Pvt Ltd](https://bravecore.in)**
+<font color="#aaaaaa">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; May 2026 – Present &nbsp;|&nbsp; On-Site
 
-Building robotic systems and handling AI model training, fine-tuning, and inference optimization. Managing the company's GitHub organization and web infrastructure.
+Building robotic systems and handling AI model training, fine-tuning, and inference optimization. Managing the company's GitHub organization and web infrastructure.</font>
 
-**Robotics & AI Intern — [BraveCore Pvt Ltd](https://bravecore.in)**  
-Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;|&nbsp; On-Site
+**Robotics & AI Intern — [BraveCore Pvt Ltd](https://bravecore.in)**
+<font color="#aaaaaa">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;|&nbsp; On-Site
 
 - **SMART-COP**: End-to-end AI metro surveillance system for real-time edge inference on NVIDIA Jetson with TensorRT optimization and a live monitoring dashboard.
 - **Corporate Website**: Designed and deployed the company's official website from scratch. [Visit](https://bravecore.in)
 - **Engineering Workflows**: Established centralized GitHub Organization for standardized version control across the startup.
-- **Web Operations**: Administered DNS, deployments, and site reliability.
+- **Web Operations**: Administered DNS, deployments, and site reliability.</font>
 
-**Robotics Intern — Manav Rachna University**  
-Faridabad, Haryana &nbsp;|&nbsp; Jun 2025 – Aug 2025
+**Robotics Intern — Manav Rachna University**
+<font color="#aaaaaa">Faridabad, Haryana &nbsp;|&nbsp; Jun 2025 – Aug 2025
 
-- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning.
+- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning.</font>
 
 **Freelance** &nbsp;|&nbsp; Independent Client &nbsp;|&nbsp; Jul 2025
-
-- **Farmer Portfolio Website**: Built and deployed a responsive portfolio website in 3 days. [Visit](https://hanumanthraokukka.netlify.app)
+<font color="#aaaaaa">
+- **Farmer Portfolio Website**: Built and deployed a responsive portfolio website in 3 days. [Visit](https://hanumanthraokukka.netlify.app)</font>
 
 ---
 
@@ -97,8 +97,8 @@ Faridabad, Haryana &nbsp;|&nbsp; Jun 2025 – Aug 2025
 
 ## Training
 
-**Infosys — Python Web Development**  
-[View Repository](https://github.com/bharathkukka/InfosysTraining-WD)
+<font color="#aaaaaa">**Infosys — Python Web Development**
+[View Repository](https://github.com/bharathkukka/InfosysTraining-WD)</font>
 
 ---
 
