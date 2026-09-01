@@ -70,7 +70,7 @@ Building robotic systems and handling AI model training, fine-tuning, and infere
 **Robotics Intern — Manav Rachna University**
 <font color="#aaaaaa" size="4">Faridabad, Haryana &nbsp;|&nbsp; Jun 2025 – Aug 2025
 
-- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning.</font>
+- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning. [Repository](https://github.com/bharathkukka/6AxisManipulator)</font>
 
 **Freelance** &nbsp;|&nbsp; Independent Client &nbsp;|&nbsp; Jul 2025
 <font color="#aaaaaa" size="4">
@@ -82,7 +82,6 @@ Building robotic systems and handling AI model training, fine-tuning, and infere
 
 | Project | Description | Repository | Duration |
 |---|---|---|---|
-| **Six-Axis Manipulator** | 6-axis robotic arm with custom gear drives, forward/inverse kinematics, trajectory planning, and a Python GUI. Tech: Python, MATLAB, Embedded C, ROS, CAD | [View](https://github.com/bharathkukka/6AxisManipulator) | Feb 2025 – Present |
 | **ShunyaNet** | Deep learning framework for computer vision with custom neural network architecture, training pipeline, and GUI/web interfaces. Tech: Python, TensorFlow, Keras, OpenCV, Streamlit | [View](https://github.com/bharathkukka/ShunyaNet) | Feb 2025 – Present |
 | **Farmer Portfolio Website** | Clean, responsive portfolio website built and deployed in 3 days. | [View](https://hanumanthraokukka.netlify.app) | Jan 2026 |
 | **Home Security System** | 3-class face recognition access system with Gemini AI threat analysis and Telegram alerts. | [View](https://github.com/bharathkukka/Home-Security-System) | Jan – May 2025 |
