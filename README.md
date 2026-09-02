@@ -54,28 +54,29 @@
 
 ## Experience
 
-  ***Robotics & AI Engineer — BraveCore Pvt Ltd***
-<font color="#aaaaaa" size="4">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; May 2026 – Present &nbsp;|&nbsp; On-Site
+## Experience
 
-Building robotic systems and handling AI model training, fine-tuning, and inference optimization. Managing the company's GitHub organization and web infrastructure.</font>
+![Robotics & AI Engineer](https://img.shields.io/badge/-Robotics_%26_AI_Engineer_—_BraveCore_Pvt_Ltd-555555?style=for-the-badge) &nbsp;&nbsp; <font color="#aaaaaa" size="4">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; May 2026 – Present &nbsp;|&nbsp; On-Site</font>
 
-***Robotics & AI Intern — BraveCore Pvt Ltd***
-<font color="#aaaaaa" size="4">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;|&nbsp; On-Site
+Building robotic systems and handling AI model training, fine-tuning, and inference optimization. Managing the company's GitHub organization and web infrastructure.
+<br><br>
+
+![Robotics & AI Intern](https://img.shields.io/badge/-Robotics_%26_AI_Intern_—_BraveCore_Pvt_Ltd-555555?style=for-the-badge) &nbsp;&nbsp; <font color="#aaaaaa" size="4">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;|&nbsp; On-Site</font>
 
 - **SMART-COP**: End-to-end AI metro surveillance system for real-time edge inference on NVIDIA Jetson with TensorRT optimization and a live monitoring dashboard.
 - **Corporate Website**: Designed and deployed the company's official website from scratch. [Visit](https://bravecore.in)
 - **Engineering Workflows**: Established centralized GitHub Organization for standardized version control across the startup.
-- **Web Operations**: Administered DNS, deployments, and site reliability.</font>
+- **Web Operations**: Administered DNS, deployments, and site reliability.
+<br><br>
 
-***Robotics Intern — Manav Rachna University***
-<font color="#aaaaaa" size="4">Faridabad, Haryana &nbsp;|&nbsp; Jun 2025 – Aug 2025
+![Robotics Intern](https://img.shields.io/badge/-Robotics_Intern_—_Manav_Rachna_University-555555?style=for-the-badge) &nbsp;&nbsp; <font color="#aaaaaa" size="4">Faridabad, Haryana &nbsp;|&nbsp; Jun 2025 – Aug 2025</font>
 
-- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning. [Repository](https://github.com/bharathkukka/6AxisManipulator)</font>
+- **6-Axis Manipulator**: Simulated a 6-axis robotic manipulator using MATLAB and the Robotics Toolbox — DH parameters, homogeneous transforms, workspace analysis, and a custom GUI for trajectory planning. [Repository](https://github.com/bharathkukka/6AxisManipulator)
+<br><br>
 
-***Freelance*** &nbsp;|&nbsp; Independent Client &nbsp;|&nbsp; Jul 2025
-<font color="#aaaaaa" size="4">
-- **Farmer Portfolio Website**: Built and deployed a responsive portfolio website in 3 days. [Visit](https://hanumanthraokukka.netlify.app)</font>
+![Freelance](https://img.shields.io/badge/-Freelance_—_Independent_Client-555555?style=for-the-badge) &nbsp;&nbsp; <font color="#aaaaaa" size="4">Jul 2025</font>
 
+- **Farmer Portfolio Website**: Built and deployed a responsive portfolio website in 3 days. [Visit](https://hanumanthraokukka.netlify.app)
 ---
 
 ## Projects
