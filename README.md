@@ -54,8 +54,6 @@
 
 ## Experience
 
-## Experience
-
 ![Robotics & AI Engineer](https://img.shields.io/badge/-Robotics_%26_AI_Engineer_—_BraveCore_Pvt_Ltd-555555?style=for-the-badge) &nbsp;&nbsp; <font color="#aaaaaa" size="4">Research & Innovation Park, IIT Delhi &nbsp;|&nbsp; May 2026 – Present &nbsp;|&nbsp; On-Site</font>
 
 Building robotic systems and handling AI model training, fine-tuning, and inference optimization. Managing the company's GitHub organization and web infrastructure.
