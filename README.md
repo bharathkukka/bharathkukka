@@ -8,7 +8,7 @@
 
 ## About
 
-<font color="#aaaaaa" size="4">I build intelligent systems at the intersection of robotics, AI, and software engineering. Currently focused on robotic manipulation, deep learning, and embedded systems.</font>
+<font color="#aaaaaa" size="4">I build intelligent systems at the intersection of robotics & AI. Currently focused on robotic manipulation, deep learning, and embedded systems.</font>
 
 ---
 
